@@ -1,4 +1,4 @@
-# basic-networking-submission
+# Basic Networking
 
 
 Otomatisasi deployment dan konfigurasi menggunakan tools IaC (Infrastucture as Code):
