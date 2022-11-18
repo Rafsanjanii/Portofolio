@@ -1,6 +1,5 @@
 # basic-networking-submission
 
-**Proyek Membangun Web Server (Apache2, Nginx & Node.js)** adalah submission akhir untuk kelas [Belajar Jaringan Komputer untuk Pemula - Dicoding](https://www.dicoding.com/academies/387).
 
 Otomatisasi deployment dan konfigurasi menggunakan tools IaC (Infrastucture as Code):
 
